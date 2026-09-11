@@ -14,6 +14,8 @@
 
 A lightweight, single-purpose visualizer for understanding how sorting algorithms behave — not just their Big-O notation, but the actual sequence of comparisons and swaps they perform on an array. Built with plain HTML, CSS, and JavaScript generator functions. No frameworks, no build step, no dependencies.
 
+**Live demo:** [AYUSH-LADE.github.io/Sorting-Algorithms-Visualizer](https://AYUSH-LADE.github.io/Sorting-Algorithms-Visualizer/)
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </div>
